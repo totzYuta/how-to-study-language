@@ -32,6 +32,12 @@ GitHubのプルリクエストまでのフローは[こちら](https://www.dropb
 
 てくらぼのSlack Teamは[こちら](https://okadai-techlab.slack.com/)！招待いるかもだから僕に連絡してくれますと助かります！
 
+### DropBox
+
+てくらぼのLT資料、写真、ミーティング議事録などはDropboxの共有フォルダでまとめています！LTした方、写真とってくれた方はほりこんで置いてくれるとメンバーも好きなときに参照できるので助かります！
+
+[こちら](https://goo.gl/BJ9OER)から！
+
 ### それでは！
 
 Happy Coding! :sunny:
