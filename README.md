@@ -38,6 +38,8 @@ GitHubのプルリクエストまでのフローは[こちら](https://www.dropb
 
 [こちら](https://goo.gl/BJ9OER)から！
 
+※ メールアドレスの認証が必要です！まだ入られてない方は戸塚までメールアドレスをSlackなりで送ったってください！
+
 ### それでは！
 
 Happy Coding! :sunny:
